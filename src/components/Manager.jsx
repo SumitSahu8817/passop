@@ -156,7 +156,7 @@ const Manager = () => {
               >
                 <img
                   ref={ref}
-                  className=" py-2 w-8 p-2hh"
+                  className=" py-1 w-8 p-2hh"
                   width={20}
                   src="icons/eye.png"
                   alt="eye"
