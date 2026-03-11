@@ -59,7 +59,7 @@ const Manager = () => {
       theme: "dark",
     });
   }else{
-    toast('Error:Passwordd not saved!')
+    toast('Error:atleast 3 characters')
   }
   };
 
